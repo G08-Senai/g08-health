@@ -1,0 +1,26 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+
+  --branco: #fff;
+  --rosaclaro: #b149cc;
+  --rosaescuro: #8649cc;
+  --azulclaro: #4ca1f5;
+  --azulescuro: #4961cc;
+
+  --rosaclarocomp: #8d1daa;
+  --rosaescurocomp: #5f1daa;
+  --azulclarocomp: #007bf5;
+  --azulescurocomp: #1d37aa;
+
+  --rosaclarocomp2: #c390d0;
+  --rosaescurocomp2: #ae90d0;
+  --azulclarocomp2: #9dc7f0;
+  --azulescurocomp2: #909bd0;
+
+  --alertgreen: #acea9c;
+  --alertyellow: #f1e087;
+  --alertred: #f57290;
+}
