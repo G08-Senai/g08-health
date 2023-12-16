@@ -1,0 +1,39 @@
+#backgroundhome img:nth-child(1) {
+  position: fixed;
+  top: 50px;
+}
+
+#backgroundhome img:nth-child(2) {
+  position: fixed;
+  top: 350px;
+  left: -150px;
+}
+
+#backgroundhome img:nth-child(3) {
+  position: fixed;
+  top: -100px;
+  left: -150px;
+}
+
+#backgroundhome img:nth-child(4) {
+  position: fixed;
+  top: 500px;
+  left: 200px;
+}
+
+#home {
+  font-family: "Open Sans", sans-serif;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  justify-self: center;
+  align-self: center;
+  text-align: center;
+}
+
+#headerana {
+  display: flex;
+}
